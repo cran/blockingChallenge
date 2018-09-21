@@ -1,0 +1,4 @@
+importFrom("stats", "cov", "mahalanobis", "na.omit", "sd", "var")
+importFrom("utils", "tail")
+
+exportPattern("^[[:alpha:]]+")

@@ -1,0 +1,14 @@
+972a0d1acf1869f01afa12b13f5ef092 *DESCRIPTION
+808b4afcfbf1887ac3cad427a6d1b297 *LICENSE
+d94ab2076249152361a23303889f15f6 *NAMESPACE
+3b4cf0a633b4d44028d629ce710912bf *R/blockingChallenge-internal.R
+1149b7d0871ba167c5bd224bf1cef8ca *R/makeblocks.R
+64f947e5bfa5e800bb048f2995cb798b *R/smahal.R
+972d40d504b6f2bd18fa9585012de8db *build/partial.rdb
+184b7f21f7089d0114a77ab276560c76 *data/nh0506.rda
+0ce977e0d5178f1dc31e6e156a2f635b *data/wls.rda
+09c92029593d6146377002f3b9604d25 *man/blockingChallenge-package.Rd
+fcb2b6c3f12d64c51b43895884aa5211 *man/makeblocks.Rd
+8b5b3e3a8018059ecd7a6b5cffc4d699 *man/nh0506.Rd
+77b42e848ff43f57822043a55ad82b14 *man/smahal.Rd
+ee2b73d1badb8a360dd3080685c1b4bc *man/wls.Rd
